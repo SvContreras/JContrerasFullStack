@@ -1,5 +1,22 @@
+body{
+    margin: 5%;
+}
+
 p{
-    color: blue;
+    color: black;
     font-family: Arial;
-    font-size: 20px;
+    text-align: justify;
+}
+.nombre{
+    color: blueviolet;
+    font-family: sans-serif;
+
+}
+h6{
+    color: grey;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-shadow: 10px;
 }

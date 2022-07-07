@@ -20,3 +20,7 @@ h1{
     text-align: center;
     text-shadow: 10px;
 }
+img.foto {
+    display: block;
+    margin: 0 auto;
+}

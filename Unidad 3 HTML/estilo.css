@@ -11,11 +11,7 @@ p{
     text-align: justify;
     font-size: 0.9em ;
 }
-.nombre{
-    color: gold;
-    font-family: sans-serif;
 
-}
 h6{
     color: cornsilk;
     text-align: center;
@@ -33,4 +29,13 @@ img.perfilcv {
 ul li{
   font-size: large;
   color: white;
+}
+.nombre{
+    color: gold;
+    font-family: sans-serif;
+
+}
+.cita{
+    color: grey;
+    text-size-adjust: 0.5em;
 }

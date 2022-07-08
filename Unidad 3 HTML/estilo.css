@@ -4,10 +4,7 @@ h1,h2,h3,h4,h5{
 body{
     margin: 5%;
     background-image: url("background.jpg");
-}
-h1{
-    color: azure;
-}
+} 
 p{
     color: white;
     font-family: Arial;
@@ -26,7 +23,9 @@ h6{
 h1{
     text-align: center;
     text-shadow: 10px;
+    color: azure;
 }
+
 img.perfilcv {
     display: block;
     margin: 0 auto;

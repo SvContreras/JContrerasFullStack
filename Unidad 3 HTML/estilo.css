@@ -1,26 +1,37 @@
+h1,h2,h3,h4,h5{
+    color: white;
+}
 body{
     margin: 5%;
+    background-image: url("background.jpg");
 }
-
+h1{
+    color: azure;
+}
 p{
-    color: black;
+    color: white;
     font-family: Arial;
     text-align: justify;
+    font-size: 0.9em ;
 }
 .nombre{
-    color: blueviolet;
+    color: gold;
     font-family: sans-serif;
 
 }
 h6{
-    color: grey;
+    color: cornsilk;
     text-align: center;
 }
 h1{
     text-align: center;
     text-shadow: 10px;
 }
-img.foto {
+img.perfilcv {
     display: block;
     margin: 0 auto;
+}
+ul li{
+  font-size: large;
+  color: white;
 }
